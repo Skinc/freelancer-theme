@@ -460,3 +460,37 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+#portfolio .filters ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+#portfolio .filters li {
+    display: block;
+    margin-right: 5px;
+    border: 1px solid #ebebeb;
+    font: 400 12px/31px 'Montserrat';
+    padding: 0 12px;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+#portfolio .filters li.active {
+    border-color: #24749E;
+    background-color: #24749E;
+    color: #fff;
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+    #portfolio .filters li {
+        display: inline-block;
+    }
+
+    .entry-meta>span {
+    display: inline-block;
+}
