@@ -79,6 +79,16 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.image-cropper {
+    margin:0  auto;
+    width: 250px;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 70%;
+}
+
+
 header {
     text-align: center;
     color: #fff;
