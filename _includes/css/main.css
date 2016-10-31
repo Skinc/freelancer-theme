@@ -238,12 +238,9 @@ section.success {
     text-align: center;
     font-size: 20px;
     color: #fff;
-    transform: translateY(-50%)
+    transform: translateY(-50%);
 }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-    margin-top: -12px;
-}
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
