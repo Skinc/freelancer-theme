@@ -11,9 +11,9 @@
             <div id="filters" class="filters">
               <ul>
                 <li class="filter active" data-filter="*">All</li>
-                <li class="filter" data-filter=".A">A</li>
-                <li class="filter" data-filter=".B">B</li>
-                <li class="filter" data-filter=".C">C</li>
+                <li class="filter" data-filter=".Design">Design</li>
+                <li class="filter" data-filter=".Software">Software</li>
+                <li class="filter" data-filter=".Project">Project</li>
                 <!--<li class="filter" data-filter=".web-development">Web Development</li> -->
               </ul>
             </div>
@@ -21,14 +21,14 @@
             <div class="row">
                 <div id="portfolio-items" style="position: relative; height: 609.6875px;">
                 {% for post in site.posts %}
-                    <div class="col-xs-12 col-sm-6 col-md-4 item {% for tag in post.category%} {{tag}} {%endfor%}">
+                    <div class="col-xs-12 col-sm-6 col-md-4 item {% for tag in post.tags%} {{tag}} {%endfor%}">
                         <div class="portfolio-item" >
                             <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                                 <div class="caption">
                                     <div class="caption-content" >
                                         {{ post.title }}<p></p>
                                         <i class="fa fa-search-plus fa-2x"></i><p></p>
-                                        Category: {{ post.category }}
+                                        Tags: {% for tag in post.tags %} {{tag}} {% endfor %}
                                     </div>
                                 </div>
                                 <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
