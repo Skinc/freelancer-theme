@@ -485,6 +485,17 @@ footer .footer-below {
     color: #fff;
 }
 
+#about_link{
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#consulting_note{
+    font-size: 1.25em;
+    font-weight: 300;
+}
+}
+
 /* Extra Small Devices, Phones */
 @media only screen and (min-width : 480px) {
     #portfolio .filters li {
