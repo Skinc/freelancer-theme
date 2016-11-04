@@ -468,7 +468,7 @@ footer .footer-below {
 }
 
 #portfolio .filters li {
-    display: block;
+    display: inline-block;
     margin-right: 5px;
     border: 1px solid #ebebeb;
     font: 400 12px/31px 'Montserrat';
