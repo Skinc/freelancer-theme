@@ -3,7 +3,7 @@ title: Shane Skikne
 email: ShaneSkikne@gmail.com
 url: https://skinc.github.io
 description: "Personal Website of Shane Skikne"
-skills: "I need to find a short sentence to describe myself."
+skills: "Engineer by training, working to rethink education using entrepreneurship and making"
 meta_author: Skikne Shane
 
 # Google webmaster tools
@@ -49,7 +49,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Middleton, Ma
+  - line: San Francisco, Ca
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
