@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2012-01-01
-img: chocolateblender.jpg
+img: chocoblender.jpg
 alt: Chocolate
 project-date: Spring 2012-Fall 2012
 client: Olin Project
