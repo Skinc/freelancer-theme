@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2016-01-01
+date: 2016-09-01
 img: Launch.jpg
 alt: Picture of teacher and students with a laser cutter
 project-date: Fall 2016
 client: Launch
-title: Launch Studio
+title: Co-Founder at Launch Studio
 size: 2
 tags: [Design, Employment]
 description: "In October 2016, a friend and I took over Launch Studio. 

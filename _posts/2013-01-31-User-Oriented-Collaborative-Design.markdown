@@ -7,7 +7,7 @@ alt: UOCD
 project-date: Spring 2013
 client: Olin
 title: User-Oriented Collaborative Design 
-size: 4
+size: 5
 tags: [Design, Project]
 description: "As part of Olin’s User-Oriented Collaborative Design course, I worked for a semester with parents of visually impaired children to understand their experiences and design a product based on their challenges and values. 
  <br/>
