@@ -2,7 +2,7 @@
 layout: default
 modal-id: 11
 date: 2014-06-01
-img: balloon.jpg TODO
+img: facebook.png 
 alt: Facebook Logo
 project-date: Summer 2014
 client: Summer Internship
