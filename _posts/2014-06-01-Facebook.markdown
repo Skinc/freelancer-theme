@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 11
+date: 2014-06-01
+img: balloon.jpg TODO
+alt: Facebook Logo
+project-date: Summer 2014
+client: Summer Internship
+title: Software Internship at Facebook
+size: 8
+tags: [Software, Employment]
+description: During the summer of 2013, I interned on the Privacy Product team at Facebook. The Privacy Product team works to ensure Facebook users understand their privacy options and trust that Facebook prioritizes their privacy. My main project was developing an educational experience on friending for users on mobile browsers. Beyond that, I worked on a variety of small projects using PHP and Javascript and assisted the team in long-term planning and prioritizing.  
+                            
+
+---
